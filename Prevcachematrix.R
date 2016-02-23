@@ -1,5 +1,5 @@
 #Programming Assignment 2
-#4 Peer Assessment - 2/2016
+#4 Peer Assessment
 
 #Make a Cached Matrix that is Inverse
 makeCacheMatrix <- function(x = numeric()) {
